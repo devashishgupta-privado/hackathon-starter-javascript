@@ -2,7 +2,7 @@
 
 ---
 
-### 10.0.0 (February 08, 2026)
+### 10.0.0 (February 08, 2026 )
 
 New AI and Integration Features
 
