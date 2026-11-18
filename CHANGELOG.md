@@ -6,7 +6,7 @@
 
 New AI and Integration Features
 
-- AI: AI Agent (ReAct: Reasoning+Acting) boilerplate with LangChain as a starting point for AI Agent development with support for:
+- AI: AI Agent (ReAct: Reasoning+Acting ) boilerplate with LangChain as a starting point for AI Agent development with support for:
   - Tool execution with automatic retry middleware for transient failures
   - MongoDB session persistence for chat history for authenticated users
   - Input guardrails for safety against prompt injection/jailbreak (Llama Guard 4)
